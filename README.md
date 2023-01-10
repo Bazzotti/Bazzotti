@@ -25,6 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bazzotti/Bazzotti/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Bazzotti/Bazzotti/blob/output/github-contribution-grid-snake.svg)
 
 ###
