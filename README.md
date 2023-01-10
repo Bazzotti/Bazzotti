@@ -22,9 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
 </div>
-
+<!--
 ###
 
 ![Snake animation](https://github.com/Bazzotti/Bazzotti/blob/output/github-contribution-grid-snake.svg)
 
-###
+### -->
